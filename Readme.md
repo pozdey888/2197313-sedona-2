@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей поздеев](https://up.htmlacademy.ru/htmlcss-individual/2/user/2197313).
-* Наставник: [Артем Картавый](https://htmlacademy.ru/profile/artem_k).
-
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k).
+*Сайт:[Мой сайт седона](https://pozdey888.github.io/2197313-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
